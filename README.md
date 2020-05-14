@@ -17,5 +17,6 @@ Measure following paramerts :
 	▪	Air pressure
 	▪	Ions etc
 	
-	For Non-Commercial, For Commerial Use: Give Credit to ROBOSLOG
+	Our all files & Code here are For Non-Commercial use Only, For Commerial Use: Give Credit to ROBOSLOG
 	Thanks
+	More updates coming soon..
