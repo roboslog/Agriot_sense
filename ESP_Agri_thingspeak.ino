@@ -1,3 +1,22 @@
+/*------------------------------------------------------------------------------
+  10/05/2020
+  Author: Narendok/
+  Platforms: ESP8266
+  Language: C++/Arduino
+  File: ESP_Agri_thingspeak.ino
+------------------------------------------
+  Please consider buying products from ROBOSLOF to help fund future
+  Open-Source projects like this! We'll always put our best effort in every
+  project, and release all our design files and code for you to use.
+
+  https://roboslog.in/agri
+  ------------------------------------------------------------------------------
+  License:
+  Please see attached LICENSE.txt file for details.   
+ ----------------------------------------------------------------------------- */
+  
+
+
 #include <SoftwareSerial.h>       //Software Serial library
 SoftwareSerial espSerial(4, 3);   //Pin 2 and 3 act as RX and TX. Connect them to TX and RX of ESP8266      
 #define DEBUG true
