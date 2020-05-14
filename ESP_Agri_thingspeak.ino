@@ -14,8 +14,6 @@
   License:
   Please see attached LICENSE.txt file for details.   
  ----------------------------------------------------------------------------- */
-  
-
 
 #include <SoftwareSerial.h>       //Software Serial library
 SoftwareSerial espSerial(4, 3);   //Pin 2 and 3 act as RX and TX. Connect them to TX and RX of ESP8266      
