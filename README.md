@@ -16,3 +16,6 @@ Measure following paramerts :
 	▪	EC
 	▪	Air pressure
 	▪	Ions etc
+	
+	For Non-Commercial, For Commerial Use: Give Credit to ROBOSLOG
+	Thanks
