@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------------------
   10/05/2020
-  Author: Narendok/
+  Author: Narendra,Shivam @ROBOSLOG TEAM
   Platforms: ESP8266
   Language: C++/Arduino
   File: ESP_Agri_thingspeak.ino
